@@ -1,7 +1,7 @@
 
 const COMPANY = {
-  phoneIntlMain: "393714330562",
-  phonesDisplay: ["371 433 0562", "380 491 5486"],
+  phonesDisplay: ["320 231 0324", "393 660 5518"],
+phoneIntlMain: "393202310324",
   email: "tosetto@tstsecurity.net",
   pec: "tsttosetto@pec.it",
   vat: "05685540287",
